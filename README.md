@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Fábio Cypreste
-- 👀 Sou interessado em Frontend e Backend
-- 🌱 Conhecimentos em Javascript, Python, SQL, NumPy, HTML e CSS;
-- 📫 Contato: fabiohenriquo@gmail.com
+- 👋 Olá, meu nome é Fábio Cypreste.
+- 👀 Sou interessado em Cybersegurança, Cloud e Backend.
+- 🌱 Conhecimentos em C, Java, Python, SQL e frameworks como NumPy e Discord.py.
+- 📫 Contato: fabiocypreste2@gmail.com
