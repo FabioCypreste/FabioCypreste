@@ -10,4 +10,4 @@ Some of my hobbies are:
 
 My primary language is Brazilian Portuguese (🇧🇷), but i can talk in English too (🇺🇸).
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,c,discord,docker,gcp,latex,mysql,notion,py,ts,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,,gcp,docker,linux,js,html,css,arduino,c,discord,latex,mysql,notion,py,ts)](https://skillicons.dev)
