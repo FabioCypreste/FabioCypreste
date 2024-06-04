@@ -3,11 +3,10 @@
 - Cloud Computing using Huawei Cloud, but i have a passion with Cybersecurity and Game Development too.
 
 Some of my hobbies are:
- - Play PC/Xbox (Actually liking Baldur's Gate 3, Chrono Trigger and enjoying Arena's Mode on League of Legends);
+ - Play PC/Xbox (Actually liking Baldur's Gate 3 and Chrono Trigger);
  - Gym;
- - Enjoy with my girlfriend going to shopping, watching a film in cinema or eating icecream;
- - Play and talk at Thu/Sex with my friends.
+ - Enjoy with my girlfriend going to shopping, watching a film in cinema
 
 My primary language is Brazilian Portuguese (🇧🇷), but i can talk in English too (🇺🇸).
 
-[![My Skills](https://skillicons.dev/icons?i=aws,,gcp,docker,linux,js,html,css,arduino,c,discord,latex,mysql,notion,py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,py,c,mysql,,discord,arduino,latex)](https://skillicons.dev)
