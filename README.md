@@ -9,4 +9,7 @@ Some of my hobbies are:
  - Enjoy with my girlfriend going to shopping and watching a film in cinema;
 
 My actual skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,py,c,mysql,,discord,arduino,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,py,c,mysql)](https://skillicons.dev)
+
+I use this too sometimes to study or just because i like it:
+[![My Skills](https://skillicons.dev/icons?i=discord,arduino,latex)](https://skillicons.dev)
