@@ -5,7 +5,7 @@
   
 Some of my hobbies are:
  - Gym (Work out the body too, not only the brain);
- - Play on PC and Xbox (Actually liking Baldur's Gate 3, Chrono Trigger, Alan Wake 2 and Diablo IV;
+ - Play on PC and Xbox (Actually liking Baldur's Gate 3, Chrono Trigger, Alan Wake 2 and Diablo IV);
  - Enjoy with my girlfriend going to shopping and watching a film in cinema;
 
 My actual skills: <br>
