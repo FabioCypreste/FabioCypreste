@@ -1,5 +1,5 @@
 # Hi there, I'm Fábio Cypreste! 👋
-### Game Developer & Computer Science Student from Brazil 🇧🇷
+### Game Developer & Computer Science Student from Brazil
 
 I'm a passionate developer focused on building solid software architecture and engaging game mechanics. I believe in mastering the fundamentals while staying updated with the latest tech trends.
 
