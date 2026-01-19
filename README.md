@@ -25,4 +25,4 @@ I'm a passionate developer focused on building solid software architecture and e
 
 ---
 
-[LinkedIn](SEU_LINK_AQUI)
+[LinkedIn](https://www.linkedin.com/in/fabiocypreste)
